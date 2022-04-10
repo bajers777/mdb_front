@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mdb_front/static/js/main.c6a44b0f.js",
+    "index.html": "/mdb_front/index.html",
+    "main.c6a44b0f.js.map": "/mdb_front/static/js/main.c6a44b0f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c6a44b0f.js"
+  ]
+}
